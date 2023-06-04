@@ -8,7 +8,7 @@ Actualmente estoy aprendiendo sobre el 'Machine Learning Engineer' con la plataf
 Tengo intereses en todo lo relacionado al mundo de la programación, me encanta el tema de la Inteligencia Artificial y quiero aprender a programarla con python, también tengo interés en la seguridad informática y todo lo que esta lleva de por medio.
 
 # ¿QUÉ BUSCO?
-Actualmente busco colaborar en un equipo para mejorar mis conocimientos sobre python y empezar a mejorar mi experiencia trabajando como programador
+Actualmente busco colaborar en un equipo para mejorar mis conocimientos sobre python y empezar a mejorar mi experiencia trabajando como programador.
 
 
 Gracias por leer mi perfil y espero que si te interesa mi perfil podamos colaborar juntos en algún proyecto.
